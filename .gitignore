@@ -33,8 +33,7 @@ next.config.mjs
 .vercel
 
 
-# Exclude next.config too
-next.config.js
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
